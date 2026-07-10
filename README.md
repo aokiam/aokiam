@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **allysonmitsue@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1W-WNNFggeX3GRNAUP08qdiU7jSxunEZ6BfJzzN63OaQ/edit?usp=sharing](https://docs.google.com/document/d/1W-WNNFggeX3GRNAUP08qdiU7jSxunEZ6BfJzzN63OaQ/edit?usp=sharing)
+- 📄 Know about my experiences [Here's a link to my CV!](https://docs.google.com/document/d/1W-WNNFggeX3GRNAUP08qdiU7jSxunEZ6BfJzzN63OaQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
