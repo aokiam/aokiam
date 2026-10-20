@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ally Aoki</h1>
 <h3 align="center">A Master's of Engineering Student in Computer Science at Oregon State University with an interest in embedded systems.</h3>
 
-- 🔭 I’m currently working on [BioMotion Light System](https://github.com/aokiam/bio-motion-light-system)
+- 🔭 I’m currently working on [Arduino MP3 Player](https://github.com/aokiam/arduino-mp3-player)
 
-- 🌱 I’m currently learning **KiCad, Analog circuit design, and Power electronic fundamentals**
+- 🌱 I’m currently learning **Altium, communication protocols, and firmware development**
 
 - 📫 How to reach me **allysonmitsue@gmail.com**
 
